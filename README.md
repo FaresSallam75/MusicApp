@@ -1,4 +1,4 @@
-# fir_roject
+# Music App
 
 A new Flutter project.
 
